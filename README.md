@@ -1,6 +1,6 @@
-# Compensation App
+# LevelEdge
 
-Compensation App is a Levels.fyi-inspired salary intelligence platform for exploring tech compensation, comparing companies, and generating AI-assisted negotiation guidance.
+LevelEdge App is a Levels.fyi-inspired salary intelligence platform for exploring tech compensation, comparing companies, and generating AI-assisted negotiation guidance.
 
 ## Features
 
