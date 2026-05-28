@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Google",
+    "slug": "google",
+    "logo": "google.svg",
+    "industry": "Internet & Cloud",
+    "employeeCount": "100,000+",
+    "hq": "Mountain View, CA",
+    "website": "https://google.com",
+    "description": "Search, Advertising, Cloud Computing, and Hardware.",
+    "stats": {
+      "medianTc": 392680,
+      "medianBase": 199716,
+      "medianStock": 170441,
+      "medianBonus": 29367,
+      "count": 51
+    }
+  },
+  {
+    "name": "Meta",
+    "slug": "meta",
+    "logo": "meta.svg",
+    "industry": "Social Media & AR",
+    "employeeCount": "60,000+",
+    "hq": "Menlo Park, CA",
+    "website": "https://meta.com",
+    "description": "Social Networking, Virtual Reality, and Messaging Apps.",
+    "stats": {
+      "medianTc": 380011,
+      "medianBase": 194047,
+      "medianStock": 159477,
+      "medianBonus": 25600,
+      "count": 55
+    }
+  },
+  {
+    "name": "Apple",
+    "slug": "apple",
+    "logo": "apple.svg",
+    "industry": "Consumer Electronics",
+    "employeeCount": "150,000+",
+    "hq": "Cupertino, CA",
+    "website": "https://apple.com",
+    "description": "Smartphones, Personal Computers, Wearables, and Services.",
+    "stats": {
+      "medianTc": 221411,
+      "medianBase": 127873,
+      "medianStock": 95096,
+      "medianBonus": 13835,
+      "count": 55
+    }
+  },
+  {
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "logo": "microsoft.svg",
+    "industry": "Software & Cloud",
+    "employeeCount": "220,000+",
+    "hq": "Redmond, WA",
+    "website": "https://microsoft.com",
+    "description": "Operating Systems, Productivity Software, and Azure Cloud.",
+    "stats": {
+      "medianTc": 237929,
+      "medianBase": 136138,
+      "medianStock": 100322,
+      "medianBonus": 17096,
+      "count": 63
+    }
+  },
+  {
+    "name": "Amazon",
+    "slug": "amazon",
+    "logo": "amazon.svg",
+    "industry": "E-Commerce & Cloud",
+    "employeeCount": "1,500,000+",
+    "hq": "Seattle, WA",
+    "website": "https://amazon.com",
+    "description": "E-commerce, AWS Cloud Computing, Streaming, and AI.",
+    "stats": {
+      "medianTc": 300332,
+      "medianBase": 164659,
+      "medianStock": 109752,
+      "medianBonus": 21139,
+      "count": 57
+    }
+  },
+  {
+    "name": "Netflix",
+    "slug": "netflix",
+    "logo": "netflix.svg",
+    "industry": "Entertainment & Streaming",
+    "employeeCount": "12,000+",
+    "hq": "Los Gatos, CA",
+    "website": "https://netflix.com",
+    "description": "Subscription-based Video Streaming Services and Original Content.",
+    "stats": {
+      "medianTc": 384228,
+      "medianBase": 189292,
+      "medianStock": 156211,
+      "medianBonus": 25723,
+      "count": 54
+    }
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo": "stripe.svg",
+    "industry": "Financial Services",
+    "employeeCount": "8,000+",
+    "hq": "San Francisco, CA",
+    "website": "https://stripe.com",
+    "description": "Online Payment Processing Software for E-commerce Websites.",
+    "stats": {
+      "medianTc": 399168,
+      "medianBase": 200071,
+      "medianStock": 170974,
+      "medianBonus": 27063,
+      "count": 59
+    }
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo": "airbnb.svg",
+    "industry": "Travel & Hospitality",
+    "employeeCount": "6,000+",
+    "hq": "San Francisco, CA",
+    "website": "https://airbnb.com",
+    "description": "Online Marketplace for Lodging, Homestays, and Tourism Experiences.",
+    "stats": {
+      "medianTc": 319924,
+      "medianBase": 134221,
+      "medianStock": 166580,
+      "medianBonus": 21117,
+      "count": 44
+    }
+  },
+  {
+    "name": "Uber",
+    "slug": "uber",
+    "logo": "uber.svg",
+    "industry": "Mobility & Logistics",
+    "employeeCount": "30,000+",
+    "hq": "San Francisco, CA",
+    "website": "https://uber.com",
+    "description": "Ride-hailing, Food Delivery, Freight Transport, and Micromobility.",
+    "stats": {
+      "medianTc": 318247,
+      "medianBase": 152132,
+      "medianStock": 124731,
+      "medianBonus": 19208,
+      "count": 56
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "slug": "nvidia",
+    "logo": "nvidia.svg",
+    "industry": "Semiconductors & AI",
+    "employeeCount": "26,000+",
+    "hq": "Santa Clara, CA",
+    "website": "https://nvidia.com",
+    "description": "Graphics Processing Units (GPUs) and Artificial Intelligence Computing.",
+    "stats": {
+      "medianTc": 362431,
+      "medianBase": 181521,
+      "medianStock": 131830,
+      "medianBonus": 23499,
+      "count": 56
+    }
+  }
+]
