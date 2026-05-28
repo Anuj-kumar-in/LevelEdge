@@ -66,7 +66,7 @@ Google's leveling structure is the industry standard for compensation benchmarki
 
   return `### LevelEdge Career & Compensation Advisor 🤖
 
-Hello! I am your AI Career Analyst. I've analyzed our dataset containing over 550 active tech salary records to help you understand the compensation landscape.
+Hello! I am your AI Career Analyst.
 
 Here are some interesting trends in the current market:
 1. **Staff Engineers (L6+)** are commanding massive premiums, with total compensations routinely exceeding **$450,000**, driven heavily by competitive equity packages.

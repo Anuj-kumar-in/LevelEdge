@@ -10,6 +10,24 @@ LevelEdge App is a Levels.fyi-inspired salary intelligence platform for explorin
 - AI Coach powered by Gemini when available
 - Automatic simulated fallback when Gemini is unavailable or rate limited
 
+
+## Background & Research
+
+### Reference Platform Analysis
+
+| Feature | Levels.fyi | 6figr | AmbitionBox | Glassdoor | **Build?** |
+|---|---|---|---|---|---|
+| Searchable salary tables | ✅ | ✅ | ✅ | ✅ | **✅ Yes** |
+| Level-based comparison | ✅ | ❌ | ❌ | ❌ | **✅ Yes** |
+| Company salary pages | ✅ | ✅ | ✅ | ✅ | **✅ Yes** |
+| Side-by-side comparison | ✅ | ❌ | ✅ | ❌ | **✅ Yes** |
+| Compensation visualizations | ✅ | ✅ | ✅ | ✅ | **✅ Yes** |
+| Salary submission form | ✅ | ✅ | ✅ | ✅ | **✅ Yes** |
+| AI-powered insights | ❌ | ❌ | ❌ | ❌ | **✅ Yes (Gemini)** |
+| Authentication | ✅ | ✅ | ✅ | ✅ | ❌ Simplified |
+| Job board | ✅ | ❌ | ✅ | ✅ | ❌ Out of scope |
+| Negotiation tools | ✅ | ❌ | ❌ | ❌ | ❌ Out of scope |
+
 ## Tech Stack
 
 - Frontend: React, TypeScript, Vite, Tailwind CSS

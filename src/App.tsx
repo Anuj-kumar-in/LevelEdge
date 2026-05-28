@@ -14,11 +14,9 @@ import NotFoundPage from './pages/NotFoundPage';
 export default function App() {
   return (
     <Router>
-      <div className="flex min-h-screen flex-col bg-white">
-        {/* Elegant top navigation bar */}
+      <div className="flex min-h-screen flex-col bg-slate-50 text-slate-900">
         <Header />
-        
-        {/* Main Content Router */}
+
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<HomePage />} />
@@ -32,7 +30,6 @@ export default function App() {
           </Routes>
         </main>
 
-        {/* Minimal Footer */}
         <Footer />
       </div>
     </Router>

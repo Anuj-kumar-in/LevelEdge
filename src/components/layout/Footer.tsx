@@ -4,7 +4,7 @@ import { ShieldCheck, GitBranch, Cpu } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className="mt-auto border-t border-border bg-slate-50 py-10">
+    <footer className="mt-auto border-t border-slate-200/80 bg-white/80 py-10 backdrop-blur-sm">
       <div className="mx-auto max-w-7xl px-6">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           
@@ -19,7 +19,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-xs text-slate-500 max-w-xs text-center md:text-left">
-              High-fidelity compensation intelligence and salary benchmarking for software engineers.
+              High-fidelity compensation intelligence and salary benchmarking for engineering teams.
             </p>
           </div>
 
@@ -35,11 +35,11 @@ export default function Footer() {
           <div className="flex items-center gap-4 text-xs font-semibold text-slate-500">
             <span className="flex items-center gap-1.5 text-emerald-600">
               <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse" />
-              API Server Online
+              Ready to explore
             </span>
             <span className="flex items-center gap-1">
               <Cpu size={12} />
-              JSON Mode
+              IndexedDB cache
             </span>
           </div>
 
@@ -48,7 +48,7 @@ export default function Footer() {
         <div className="mt-8 border-t border-slate-200/60 pt-6 flex flex-col md:flex-row items-center justify-between text-[11px] text-slate-400 font-medium">
           <p>© {new Date().getFullYear()} LevelEdge Technologies. All rights reserved.</p>
           <div className="flex items-center gap-4 mt-2 md:mt-0">
-            <span className="hover:text-slate-600 cursor-pointer">Security Ledger</span>
+            <span className="hover:text-slate-600 cursor-pointer">Market data</span>
             <span className="hover:text-slate-600 cursor-pointer">Privacy Policy</span>
             <span className="hover:text-slate-600 cursor-pointer">Terms of Service</span>
           </div>
